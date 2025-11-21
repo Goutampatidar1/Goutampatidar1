@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Goutam</h1>
+I<h1 align="center">Hi 👋, I'm Goutam</h1>
 
 <p align="center">
   A curious developer who loves building cool stuff, exploring new tech,  
@@ -57,20 +57,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Goutampatidar1&show_icons=true&theme=tokyonight&border_radius=10" />
 </p>
 
----
 
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Goutampatidar1&theme=tokyonight" />
-</p>
-
----
-
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Goutampatidar1&theme=tokyo-night" />
-</p>
-
----
