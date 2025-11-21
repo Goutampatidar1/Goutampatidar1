@@ -1,4 +1,4 @@
-hi<h1 align="center">Hi 👋, I'm Goutam</h1>
+<h1 align="center">Hi 👋, I'm Goutam</h1>
 
 <p align="center">
   A curious developer who loves building cool stuff, exploring new tech,  
@@ -27,3 +27,50 @@ hi<h1 align="center">Hi 👋, I'm Goutam</h1>
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white" />
 
 </p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=5CF7F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%7C+PHP+%7C+ML+Enthusiast;Always+Learning+New+Things+🚀">
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,html,css,js,react,nodejs,express,mysql,mongodb,git,github,linux,vscode,figma" />
+</p>
+
+---
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goutampatidar1&layout=compact&theme=tokyonight&border_radius=10" />
+</p>
+
+---
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Goutampatidar1&show_icons=true&theme=tokyonight&border_radius=10" />
+</p>
+
+---
+
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Goutampatidar1&theme=tokyonight" />
+</p>
+
+---
+
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Goutampatidar1&theme=tokyo-night" />
+</p>
+
+---
