@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Goutam</h1>
+hi<h1 align="center">Hi 👋, I'm Goutam</h1>
 
 <p align="center">
   A curious developer who loves building cool stuff, exploring new tech,  
@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itsmeff-assets/anime-imgs/main/hoodie-boy-1.jpg"
-       alt="Anime hoodie" width="400" style="border-radius: 10px;">
+  <img src="https://raw.githubusercontent.com/Goutampatidar1/Goutampatidar1/main/2a281533-9665-4666-8669-f05940e44f0c.png" 
+       width="400" style="border-radius: 10px;">
 </p>
 
 ---
