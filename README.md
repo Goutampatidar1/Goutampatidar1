@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/63/aa/8f/63aa8f4e0c0f7b9c8fb52328f1b9974d.jpg" 
+  <img src="https://raw.githubusercontent.com/itsmeff-assets/anime-imgs/main/hoodie-boy-1.jpg"
        alt="Anime hoodie" width="400" style="border-radius: 10px;">
 </p>
 
